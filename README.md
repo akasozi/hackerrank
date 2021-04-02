@@ -9,3 +9,5 @@ https://github.com/yanzv/HackerRank/tree/master/Java/Object%20Oriented%20Program
 5. JUNIT (testing)
 6. flow control
 7. Algorithms (chapt 1 & 2)
+8. Arithmetic/Geometric progressions 
+9. Determine if aritmetic progression
