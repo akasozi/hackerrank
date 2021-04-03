@@ -60,11 +60,5 @@ public class FairIndex {
         }
         System.out.printf("indices found: %s", Arrays.toString(indices));
         return fairIndexCount;
-
-        
-    
-    }
-    
-    
-    
+    }    
 }
