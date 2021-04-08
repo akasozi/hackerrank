@@ -61,5 +61,17 @@ public class Solution {
         }
         System.out.printf("Smallest: %d%n", smallest);
         
+        // Calculate the average
+        int average = 0;
+        for (int i = 1; i < M; i++) {
+            
+           for (int j = 1; j < N; j++) {
+           
+           } 
+        }
+        
+        // Arguments are passed by value, You can use argument variables
+        // 
+        
     }    
 }
